@@ -1,5 +1,10 @@
 # Curso de VSCode
 
+Este repositorio pertenece a [Fernando Herrera](https://www.udemy.com/user/550c38655ec11/)
+Que imparte éste curso en [Udemy](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/)
+
+### ¡Muchas gracias!
+--- 
 Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
 
 También hay un par de extensiones bastante útiles que les pueden servir.
@@ -22,4 +27,4 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
-* [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)# Curso de Udemy para el manejo rápido de visual estudio code
+* [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
